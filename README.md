@@ -6,5 +6,5 @@ Pymania-Skinner is a tool designed to help you create and customize skins for Os
 ## ⭐ Important
 Pymania-Skinner is created with only Osu!(lazer) in mind; additional customization features for Osu!(stable) may not be included.
 
-## ⚠ Disclaimer
+## ⚠️ Disclaimer
 This project is not affiliated with or endorsed by the creators of Osu!.

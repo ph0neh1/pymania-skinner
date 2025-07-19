@@ -1,3 +1,7 @@
-# pymania-skinner
+# Pymania-Skinner
 
-This tool will allow you to create/edit skins for Osu Mania Exclusively in a interactive interface.
+## Introduction
+Pymania-Skinner is a tool designed to help you create and customize skins for Osu!mania.
+
+## Disclaimer
+This project is not affiliated with or endorsed by the creators of Osu!.
